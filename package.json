@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guzart/eslint-import-resolver-reactnative.git"
+    "url": "git+https://github.com/sumitduggal/eslint-import-resolver-reactnative.git"
   },
-  "author": "Arturo Guzman",
+  "author": "Sumti duggal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/guzart/eslint-import-resolver-reactnative/issues"
+    "url": "https://github.com/sumitduggal/eslint-import-resolver-reactnative/issues"
   },
-  "homepage": "https://github.com/guzart/eslint-import-resolver-reactnative#readme",
+  "homepage": "https://github.com/sumitduggal/eslint-import-resolver-reactnative#readme",
   "dependencies": {
-    "eslint-import-resolver-node": "^0.2.3",
+    "eslint-import-resolver-node": "^0.3.3",
     "find-root": "^1.0.0"
   },
   "eslintConfig": {
